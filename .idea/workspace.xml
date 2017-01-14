@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b27829b-f2a4-485e-b1bc-7130abae3da3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/animate.js" afterPath="$PROJECT_DIR$/src/js/animate.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,8 +65,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="198">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -112,8 +113,8 @@
       <file leaf-file-name="animate.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/animate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,8 +147,8 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/css/card.css" />
         <option value="$PROJECT_DIR$/birthdaycard.html" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/src/js/animate.js" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -351,12 +352,12 @@
       <option name="presentableId" value="Default" />
       <updated>1484351437812</updated>
       <workItem from="1484351439280" duration="2739000" />
-      <workItem from="1484355258431" duration="538000" />
+      <workItem from="1484355258431" duration="752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3277000" />
+    <option name="totallyTimeSpent" value="3491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1545" height="876" extended-state="6" />
@@ -530,14 +531,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/animate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -546,10 +539,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/src/js/animate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
