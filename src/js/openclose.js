@@ -5,8 +5,7 @@ document.body.appendChild(music);
 
 function open_card() {
     document.getElementById('front').className = 'open-card';
-  music.pause();
-  music.currentTime = 0;
+
   document.body.removeChild(document.getElementById("music"));
 }
 
