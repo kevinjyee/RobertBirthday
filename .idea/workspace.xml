@@ -23,8 +23,8 @@
       <file leaf-file-name="birthdaycard.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/birthdaycard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="342">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -345,12 +345,12 @@
       <workItem from="1484411000635" duration="2318000" />
       <workItem from="1484436788800" duration="179000" />
       <workItem from="1484446580244" duration="133000" />
-      <workItem from="1484447061064" duration="147000" />
+      <workItem from="1484447061064" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6945000" />
+    <option name="totallyTimeSpent" value="6960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1545" height="876" extended-state="6" />
@@ -756,8 +756,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/birthdaycard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>
