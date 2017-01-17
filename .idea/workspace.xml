@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b27829b-f2a4-485e-b1bc-7130abae3da3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/birthdaycard.html" afterPath="$PROJECT_DIR$/birthdaycard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/birthdaycardmobile.html" afterPath="$PROJECT_DIR$/birthdaycardmobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/card.css" afterPath="$PROJECT_DIR$/src/css/card.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="birthdaycardmobile.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="birthdaycardmobile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/birthdaycardmobile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+              <caret line="21" column="109" lean-forward="true" selection-start-line="21" selection-start-column="109" selection-end-line="21" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -72,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="card.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="card.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/card.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+            <state relative-caret-position="702">
+              <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -146,11 +144,11 @@
         <option value="$PROJECT_DIR$/src/js/animate.js" />
         <option value="$PROJECT_DIR$/src/css/unicorn.css" />
         <option value="$PROJECT_DIR$/src/js/openclose.js" />
-        <option value="$PROJECT_DIR$/src/css/card.css" />
         <option value="$PROJECT_DIR$/src/birthdaycardmobile.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/birthdaycard.html" />
         <option value="$PROJECT_DIR$/birthdaycardmobile.html" />
+        <option value="$PROJECT_DIR$/src/css/card.css" />
       </list>
     </option>
   </component>
@@ -321,12 +319,12 @@
       <workItem from="1484446580244" duration="133000" />
       <workItem from="1484447061064" duration="1361000" />
       <workItem from="1484501304778" duration="596000" />
-      <workItem from="1484616055177" duration="942000" />
+      <workItem from="1484616055177" duration="1084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9697000" />
+    <option name="totallyTimeSpent" value="9839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="164" width="1545" height="876" extended-state="6" />
@@ -685,14 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/robertandme.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -722,6 +712,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/birthdaycardmobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="109" lean-forward="true" selection-start-line="21" selection-start-column="109" selection-end-line="21" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/birthdaycard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -730,10 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/birthdaycardmobile.html">
+    <entry file="file://$PROJECT_DIR$/src/css/card.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state relative-caret-position="702">
+          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
           <folding />
         </state>
       </provider>
